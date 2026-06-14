@@ -110,4 +110,10 @@ cd clinic-frontend
 
 -to access the manager 
 username:  mg@gmail.com
-password : mg12345 
+password : mg12345
+
+
+Group Memebers ( BSEM1201 - semseter-4 Group-8)
+1. Joshua Mohamed Katibi Yaffa ID: 905004075
+2. Ayisha Jusesta Bockarie ID : 905004096
+3. Alhaji Tanu Jalloh ID: 905004675
